@@ -2,7 +2,6 @@ package org.varukha.entity;
 
 import java.util.List;
 import lombok.Data;
-import lombok.EqualsAndHashCode;
 import lombok.RequiredArgsConstructor;
 import org.varukha.entity.enums.CargoCategory;
 import org.varukha.entity.enums.DeliveryStatus;
@@ -12,7 +11,6 @@ import org.varukha.entity.enums.DeliveryStatus;
  */
 @Data
 @RequiredArgsConstructor
-@EqualsAndHashCode
 public class Cargo {
     private Long id;
     private String description;

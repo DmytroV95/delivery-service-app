@@ -1,7 +1,6 @@
 package org.varukha.entity;
 
 import lombok.Data;
-import lombok.EqualsAndHashCode;
 import lombok.RequiredArgsConstructor;
 import org.varukha.entity.enums.VehicleType;
 
@@ -10,7 +9,6 @@ import org.varukha.entity.enums.VehicleType;
  */
 @Data
 @RequiredArgsConstructor
-@EqualsAndHashCode
 public class Vehicle {
     private Long id;
     private VehicleType type;
