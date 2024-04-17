@@ -1,0 +1,26 @@
+<statistics>
+  <item>
+    <value>Lost</value>
+    <count>184</count>
+  </item>
+  <item>
+    <value>Returned</value>
+    <count>176</count>
+  </item>
+  <item>
+    <value>Delivered</value>
+    <count>172</count>
+  </item>
+  <item>
+    <value>Pending</value>
+    <count>161</count>
+  </item>
+  <item>
+    <value>In Transit</value>
+    <count>159</count>
+  </item>
+  <item>
+    <value>Out for Delivery</value>
+    <count>148</count>
+  </item>
+</statistics>

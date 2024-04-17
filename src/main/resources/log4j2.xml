@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info">
+    <Appenders>
+        <Console name="LogToConsole" target="SYSTEM_OUT">
+            <PatternLayout pattern="%msg%n"/>
+        </Console>
+        <File name="LogToFile" fileName="logs/app.log">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} %-5level - %C.%M - %msg%n"/>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Logger name="org.varukha" level="info" additivity="false">
+            <AppenderRef ref="LogToConsole"/>
+            <AppenderRef ref="LogToFile"/>
+        </Logger>
+        <Root level="error">
+            <AppenderRef ref="LogToConsole"/>
+            <AppenderRef ref="LogToFile"/>
+        </Root>
+    </Loggers>
+</Configuration>

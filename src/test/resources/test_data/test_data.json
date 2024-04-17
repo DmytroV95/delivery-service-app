@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "description": "Cargo 1",
+    "weight": 20.930478612041227,
+    "dimensions": "10x10x10",
+    "destination": "Destination 1",
+    "status": "LOST",
+    "categories": [
+      "FURNITURE",
+      "BOOKS",
+      "OTHER",
+      "CLOTHING",
+      "FOOD"
+    ],
+    "vehicleInfo": {
+      "id": 1,
+      "type": "DRONE",
+      "vehicleNumber": "ABC123",
+      "cargoCapacity": 215.37086339778622,
+      "route": "Route 3"
+    }
+  },
+  {
+    "id": 2,
+    "description": "Cargo 2",
+    "weight": 85.08938699988914,
+    "dimensions": "10x10x10",
+    "destination": "Destination 2",
+    "status": "PENDING",
+    "categories": [
+      "FURNITURE",
+      "OTHER",
+      "ELECTRONICS",
+      "BOOKS",
+      "CLOTHING"
+    ],
+    "vehicleInfo": {
+      "id": 1,
+      "type": "SHIP",
+      "vehicleNumber": "ABC123",
+      "cargoCapacity": 763.063507891675,
+      "route": "Route 1"
+    }
+  }
+]

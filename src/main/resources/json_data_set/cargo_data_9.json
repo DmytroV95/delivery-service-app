@@ -1,0 +1,1501 @@
+[ {
+  "id" : 801,
+  "description" : "Cargo 801",
+  "weight" : 60.04479304125827,
+  "dimensions" : "8000x8000x8000",
+  "destination" : "Destination 801",
+  "status" : "RETURNED",
+  "categories" : [ "CLOTHING", "OTHER", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 389.70802460019326,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 802,
+  "description" : "Cargo 802",
+  "weight" : 8.072537323465912,
+  "dimensions" : "8010x8010x8010",
+  "destination" : "Destination 802",
+  "status" : "RETURNED",
+  "categories" : [ "OTHER", "BOOKS", "CLOTHING", "FURNITURE", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 19.082984571521912,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 803,
+  "description" : "Cargo 803",
+  "weight" : 45.656095860058734,
+  "dimensions" : "8020x8020x8020",
+  "destination" : "Destination 803",
+  "status" : "LOST",
+  "categories" : [ "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 487.1428731309577,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 804,
+  "description" : "Cargo 804",
+  "weight" : 58.40315854086723,
+  "dimensions" : "8030x8030x8030",
+  "destination" : "Destination 804",
+  "status" : "DELIVERED",
+  "categories" : [ "OTHER", "FURNITURE", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 802.477969249373,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 805,
+  "description" : "Cargo 805",
+  "weight" : 94.47053890185856,
+  "dimensions" : "8040x8040x8040",
+  "destination" : "Destination 805",
+  "status" : "PENDING",
+  "categories" : [ "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 906.8986766377141,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 806,
+  "description" : "Cargo 806",
+  "weight" : 95.7354812364442,
+  "dimensions" : "8050x8050x8050",
+  "destination" : "Destination 806",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "ELECTRONICS", "OTHER", "FURNITURE", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 733.4843929935756,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 807,
+  "description" : "Cargo 807",
+  "weight" : 32.23901527086092,
+  "dimensions" : "8060x8060x8060",
+  "destination" : "Destination 807",
+  "status" : "LOST",
+  "categories" : [ "FURNITURE", "OTHER", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 390.9266392472136,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 808,
+  "description" : "Cargo 808",
+  "weight" : 99.0611757888922,
+  "dimensions" : "8070x8070x8070",
+  "destination" : "Destination 808",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "OTHER", "BOOKS", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 364.664450204075,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 809,
+  "description" : "Cargo 809",
+  "weight" : 72.32348411736996,
+  "dimensions" : "8080x8080x8080",
+  "destination" : "Destination 809",
+  "status" : "DELIVERED",
+  "categories" : [ "ELECTRONICS", "CLOTHING", "FOOD", "BOOKS", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 748.086901925737,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 810,
+  "description" : "Cargo 810",
+  "weight" : 74.0603554629674,
+  "dimensions" : "8090x8090x8090",
+  "destination" : "Destination 810",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "FOOD", "FURNITURE", "CLOTHING", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 954.8631747191121,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 811,
+  "description" : "Cargo 811",
+  "weight" : 80.17894717109634,
+  "dimensions" : "8100x8100x8100",
+  "destination" : "Destination 811",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "FOOD", "ELECTRONICS", "CLOTHING", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 659.4685466766955,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 812,
+  "description" : "Cargo 812",
+  "weight" : 0.8389391972116522,
+  "dimensions" : "8110x8110x8110",
+  "destination" : "Destination 812",
+  "status" : "PENDING",
+  "categories" : [ "BOOKS", "FOOD", "FURNITURE", "CLOTHING", "ELECTRONICS", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 930.0359471398077,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 813,
+  "description" : "Cargo 813",
+  "weight" : 27.005432100269754,
+  "dimensions" : "8120x8120x8120",
+  "destination" : "Destination 813",
+  "status" : "DELIVERED",
+  "categories" : [ "BOOKS", "FOOD", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 300.09898754090045,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 814,
+  "description" : "Cargo 814",
+  "weight" : 82.85586388152404,
+  "dimensions" : "8130x8130x8130",
+  "destination" : "Destination 814",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "CLOTHING", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 798.1142237949902,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 815,
+  "description" : "Cargo 815",
+  "weight" : 88.14261111978463,
+  "dimensions" : "8140x8140x8140",
+  "destination" : "Destination 815",
+  "status" : "RETURNED",
+  "categories" : [ "CLOTHING", "BOOKS", "FOOD", "OTHER", "ELECTRONICS", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 948.8439839749149,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 816,
+  "description" : "Cargo 816",
+  "weight" : 63.88550660638006,
+  "dimensions" : "8150x8150x8150",
+  "destination" : "Destination 816",
+  "status" : "LOST",
+  "categories" : [ "FURNITURE", "BOOKS", "CLOTHING", "FOOD", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 550.5853491607546,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 817,
+  "description" : "Cargo 817",
+  "weight" : 7.086486760558241,
+  "dimensions" : "8160x8160x8160",
+  "destination" : "Destination 817",
+  "status" : "PENDING",
+  "categories" : [ "FURNITURE", "BOOKS", "CLOTHING", "OTHER", "FOOD", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 423.72460737875093,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 818,
+  "description" : "Cargo 818",
+  "weight" : 58.10800068945815,
+  "dimensions" : "8170x8170x8170",
+  "destination" : "Destination 818",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "OTHER", "BOOKS", "FOOD", "CLOTHING", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 559.051814615197,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 819,
+  "description" : "Cargo 819",
+  "weight" : 97.3849685969671,
+  "dimensions" : "8180x8180x8180",
+  "destination" : "Destination 819",
+  "status" : "DELIVERED",
+  "categories" : [ "FOOD", "OTHER", "BOOKS", "FURNITURE", "CLOTHING", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 572.2985096524529,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 820,
+  "description" : "Cargo 820",
+  "weight" : 85.48230641086019,
+  "dimensions" : "8190x8190x8190",
+  "destination" : "Destination 820",
+  "status" : "DELIVERED",
+  "categories" : [ "FOOD", "FURNITURE", "OTHER", "ELECTRONICS", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 434.6635332567346,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 821,
+  "description" : "Cargo 821",
+  "weight" : 49.12920217673131,
+  "dimensions" : "8200x8200x8200",
+  "destination" : "Destination 821",
+  "status" : "PENDING",
+  "categories" : [ "FOOD", "ELECTRONICS", "CLOTHING", "OTHER", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 312.06464150513045,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 822,
+  "description" : "Cargo 822",
+  "weight" : 55.861772674223154,
+  "dimensions" : "8210x8210x8210",
+  "destination" : "Destination 822",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "ELECTRONICS", "BOOKS", "FURNITURE", "FOOD", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 25.740731542075345,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 823,
+  "description" : "Cargo 823",
+  "weight" : 54.863387353318856,
+  "dimensions" : "8220x8220x8220",
+  "destination" : "Destination 823",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "FURNITURE", "OTHER", "BOOKS", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 563.3600475012056,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 824,
+  "description" : "Cargo 824",
+  "weight" : 95.95350210848234,
+  "dimensions" : "8230x8230x8230",
+  "destination" : "Destination 824",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "FURNITURE", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 974.2580649690874,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 825,
+  "description" : "Cargo 825",
+  "weight" : 70.25021006060744,
+  "dimensions" : "8240x8240x8240",
+  "destination" : "Destination 825",
+  "status" : "DELIVERED",
+  "categories" : [ "FURNITURE", "BOOKS", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 229.23464033088868,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 826,
+  "description" : "Cargo 826",
+  "weight" : 42.28342610085109,
+  "dimensions" : "8250x8250x8250",
+  "destination" : "Destination 826",
+  "status" : "PENDING",
+  "categories" : [ "FURNITURE", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 331.5070972000672,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 827,
+  "description" : "Cargo 827",
+  "weight" : 46.07169675403977,
+  "dimensions" : "8260x8260x8260",
+  "destination" : "Destination 827",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "FURNITURE", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 312.1206489220034,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 828,
+  "description" : "Cargo 828",
+  "weight" : 90.87854222882949,
+  "dimensions" : "8270x8270x8270",
+  "destination" : "Destination 828",
+  "status" : "DELIVERED",
+  "categories" : [ "CLOTHING", "ELECTRONICS", "OTHER", "FURNITURE", "FOOD", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 617.8960000551135,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 829,
+  "description" : "Cargo 829",
+  "weight" : 45.64097879109871,
+  "dimensions" : "8280x8280x8280",
+  "destination" : "Destination 829",
+  "status" : "LOST",
+  "categories" : [ "CLOTHING", "FOOD", "ELECTRONICS", "BOOKS", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 141.43550818118854,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 830,
+  "description" : "Cargo 830",
+  "weight" : 28.23892049696859,
+  "dimensions" : "8290x8290x8290",
+  "destination" : "Destination 830",
+  "status" : "DELIVERED",
+  "categories" : [ "FOOD", "ELECTRONICS", "OTHER", "BOOKS", "CLOTHING", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 889.6581081547085,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 831,
+  "description" : "Cargo 831",
+  "weight" : 47.68478100077608,
+  "dimensions" : "8300x8300x8300",
+  "destination" : "Destination 831",
+  "status" : "PENDING",
+  "categories" : [ "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 122.57328490576813,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 832,
+  "description" : "Cargo 832",
+  "weight" : 13.319435442055806,
+  "dimensions" : "8310x8310x8310",
+  "destination" : "Destination 832",
+  "status" : "PENDING",
+  "categories" : [ "CLOTHING", "BOOKS", "OTHER", "FURNITURE", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 361.4643195308931,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 833,
+  "description" : "Cargo 833",
+  "weight" : 79.71470329032509,
+  "dimensions" : "8320x8320x8320",
+  "destination" : "Destination 833",
+  "status" : "LOST",
+  "categories" : [ "BOOKS", "FOOD", "FURNITURE", "OTHER", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 200.81412090806882,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 834,
+  "description" : "Cargo 834",
+  "weight" : 40.79246081370573,
+  "dimensions" : "8330x8330x8330",
+  "destination" : "Destination 834",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "FURNITURE", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 880.7096407297679,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 835,
+  "description" : "Cargo 835",
+  "weight" : 92.71511772540912,
+  "dimensions" : "8340x8340x8340",
+  "destination" : "Destination 835",
+  "status" : "PENDING",
+  "categories" : [ "FURNITURE", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 891.3238618626685,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 836,
+  "description" : "Cargo 836",
+  "weight" : 17.554884876230027,
+  "dimensions" : "8350x8350x8350",
+  "destination" : "Destination 836",
+  "status" : "LOST",
+  "categories" : [ "CLOTHING", "OTHER", "FOOD", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 195.20797308994676,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 837,
+  "description" : "Cargo 837",
+  "weight" : 32.95398681750093,
+  "dimensions" : "8360x8360x8360",
+  "destination" : "Destination 837",
+  "status" : "DELIVERED",
+  "categories" : [ "OTHER", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 495.15740358848404,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 838,
+  "description" : "Cargo 838",
+  "weight" : 16.91397393226658,
+  "dimensions" : "8370x8370x8370",
+  "destination" : "Destination 838",
+  "status" : "LOST",
+  "categories" : [ "BOOKS", "OTHER", "FURNITURE", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 588.1463508648567,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 839,
+  "description" : "Cargo 839",
+  "weight" : 3.0907451703180544,
+  "dimensions" : "8380x8380x8380",
+  "destination" : "Destination 839",
+  "status" : "LOST",
+  "categories" : [ "BOOKS", "ELECTRONICS", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 460.7711185197338,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 840,
+  "description" : "Cargo 840",
+  "weight" : 64.97182638629131,
+  "dimensions" : "8390x8390x8390",
+  "destination" : "Destination 840",
+  "status" : "DELIVERED",
+  "categories" : [ "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 886.4551871185239,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 841,
+  "description" : "Cargo 841",
+  "weight" : 18.81562266750355,
+  "dimensions" : "8400x8400x8400",
+  "destination" : "Destination 841",
+  "status" : "RETURNED",
+  "categories" : [ "BOOKS", "ELECTRONICS", "FOOD", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 718.1407701184885,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 842,
+  "description" : "Cargo 842",
+  "weight" : 16.803168543341872,
+  "dimensions" : "8410x8410x8410",
+  "destination" : "Destination 842",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 321.191679225043,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 843,
+  "description" : "Cargo 843",
+  "weight" : 57.275463552018856,
+  "dimensions" : "8420x8420x8420",
+  "destination" : "Destination 843",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "OTHER", "FOOD", "FURNITURE", "CLOTHING", "ELECTRONICS", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 428.7407994729303,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 844,
+  "description" : "Cargo 844",
+  "weight" : 25.02737102749748,
+  "dimensions" : "8430x8430x8430",
+  "destination" : "Destination 844",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 906.9441737343362,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 845,
+  "description" : "Cargo 845",
+  "weight" : 19.667076782674187,
+  "dimensions" : "8440x8440x8440",
+  "destination" : "Destination 845",
+  "status" : "RETURNED",
+  "categories" : [ "BOOKS", "ELECTRONICS", "OTHER", "CLOTHING", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 297.3475370902535,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 846,
+  "description" : "Cargo 846",
+  "weight" : 88.35341622075606,
+  "dimensions" : "8450x8450x8450",
+  "destination" : "Destination 846",
+  "status" : "LOST",
+  "categories" : [ "BOOKS", "FURNITURE", "ELECTRONICS", "OTHER", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 500.1788801652444,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 847,
+  "description" : "Cargo 847",
+  "weight" : 73.16732712536661,
+  "dimensions" : "8460x8460x8460",
+  "destination" : "Destination 847",
+  "status" : "RETURNED",
+  "categories" : [ "FURNITURE", "OTHER", "CLOTHING", "FOOD", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 482.549262605222,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 848,
+  "description" : "Cargo 848",
+  "weight" : 7.633807269137439,
+  "dimensions" : "8470x8470x8470",
+  "destination" : "Destination 848",
+  "status" : "PENDING",
+  "categories" : [ "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 586.4596507216368,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 849,
+  "description" : "Cargo 849",
+  "weight" : 42.12502668642134,
+  "dimensions" : "8480x8480x8480",
+  "destination" : "Destination 849",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "BOOKS", "FURNITURE", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 481.6448783784073,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 850,
+  "description" : "Cargo 850",
+  "weight" : 91.9082649233829,
+  "dimensions" : "8490x8490x8490",
+  "destination" : "Destination 850",
+  "status" : "PENDING",
+  "categories" : [ "ELECTRONICS", "OTHER", "FURNITURE", "CLOTHING", "FOOD", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 262.1845082069036,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 851,
+  "description" : "Cargo 851",
+  "weight" : 43.47435934265784,
+  "dimensions" : "8500x8500x8500",
+  "destination" : "Destination 851",
+  "status" : "LOST",
+  "categories" : [ "ELECTRONICS", "BOOKS", "CLOTHING", "FOOD", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 585.695409349171,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 852,
+  "description" : "Cargo 852",
+  "weight" : 21.62711360252626,
+  "dimensions" : "8510x8510x8510",
+  "destination" : "Destination 852",
+  "status" : "PENDING",
+  "categories" : [ "CLOTHING", "OTHER", "BOOKS", "FOOD", "FURNITURE", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 480.053511528977,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 853,
+  "description" : "Cargo 853",
+  "weight" : 4.747904536940162,
+  "dimensions" : "8520x8520x8520",
+  "destination" : "Destination 853",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "ELECTRONICS", "BOOKS", "FOOD", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 995.7333489532231,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 854,
+  "description" : "Cargo 854",
+  "weight" : 66.43214867329907,
+  "dimensions" : "8530x8530x8530",
+  "destination" : "Destination 854",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "CLOTHING", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 542.1249501772309,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 855,
+  "description" : "Cargo 855",
+  "weight" : 21.376969547783176,
+  "dimensions" : "8540x8540x8540",
+  "destination" : "Destination 855",
+  "status" : "PENDING",
+  "categories" : [ "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 186.7288550711149,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 856,
+  "description" : "Cargo 856",
+  "weight" : 43.23633554111815,
+  "dimensions" : "8550x8550x8550",
+  "destination" : "Destination 856",
+  "status" : "PENDING",
+  "categories" : [ "CLOTHING", "BOOKS", "OTHER", "FOOD", "ELECTRONICS", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 258.46381024119415,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 857,
+  "description" : "Cargo 857",
+  "weight" : 4.328747525423216,
+  "dimensions" : "8560x8560x8560",
+  "destination" : "Destination 857",
+  "status" : "LOST",
+  "categories" : [ "BOOKS", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 312.5811023063919,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 858,
+  "description" : "Cargo 858",
+  "weight" : 89.8501640135755,
+  "dimensions" : "8570x8570x8570",
+  "destination" : "Destination 858",
+  "status" : "RETURNED",
+  "categories" : [ "FURNITURE", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 720.7123147749016,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 859,
+  "description" : "Cargo 859",
+  "weight" : 91.3132230067285,
+  "dimensions" : "8580x8580x8580",
+  "destination" : "Destination 859",
+  "status" : "PENDING",
+  "categories" : [ "FOOD", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 856.7381761758113,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 860,
+  "description" : "Cargo 860",
+  "weight" : 68.25009569441318,
+  "dimensions" : "8590x8590x8590",
+  "destination" : "Destination 860",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "FOOD", "BOOKS", "ELECTRONICS", "OTHER", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 776.9621616108201,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 861,
+  "description" : "Cargo 861",
+  "weight" : 3.1768836969224723,
+  "dimensions" : "8600x8600x8600",
+  "destination" : "Destination 861",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "FOOD", "FURNITURE", "ELECTRONICS", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 212.72986717544106,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 862,
+  "description" : "Cargo 862",
+  "weight" : 1.5175691735042518,
+  "dimensions" : "8610x8610x8610",
+  "destination" : "Destination 862",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "ELECTRONICS", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 625.9307114880351,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 863,
+  "description" : "Cargo 863",
+  "weight" : 17.12591351075354,
+  "dimensions" : "8620x8620x8620",
+  "destination" : "Destination 863",
+  "status" : "LOST",
+  "categories" : [ "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 634.9875450018062,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 864,
+  "description" : "Cargo 864",
+  "weight" : 26.1422994684005,
+  "dimensions" : "8630x8630x8630",
+  "destination" : "Destination 864",
+  "status" : "RETURNED",
+  "categories" : [ "BOOKS", "FURNITURE", "ELECTRONICS", "CLOTHING", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 180.74053172115245,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 865,
+  "description" : "Cargo 865",
+  "weight" : 4.077075743805714,
+  "dimensions" : "8640x8640x8640",
+  "destination" : "Destination 865",
+  "status" : "RETURNED",
+  "categories" : [ "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 182.81350491881264,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 866,
+  "description" : "Cargo 866",
+  "weight" : 44.656193035706615,
+  "dimensions" : "8650x8650x8650",
+  "destination" : "Destination 866",
+  "status" : "LOST",
+  "categories" : [ "OTHER", "CLOTHING", "ELECTRONICS", "BOOKS", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 976.4851913765057,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 867,
+  "description" : "Cargo 867",
+  "weight" : 6.8775460793555565,
+  "dimensions" : "8660x8660x8660",
+  "destination" : "Destination 867",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "BOOKS", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 76.59377014553837,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 868,
+  "description" : "Cargo 868",
+  "weight" : 17.36565011250766,
+  "dimensions" : "8670x8670x8670",
+  "destination" : "Destination 868",
+  "status" : "DELIVERED",
+  "categories" : [ "CLOTHING", "BOOKS", "ELECTRONICS", "OTHER", "FURNITURE", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 122.88861641803483,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 869,
+  "description" : "Cargo 869",
+  "weight" : 74.2321178826568,
+  "dimensions" : "8680x8680x8680",
+  "destination" : "Destination 869",
+  "status" : "RETURNED",
+  "categories" : [ "ELECTRONICS", "CLOTHING", "OTHER", "FURNITURE", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 619.068402058674,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 870,
+  "description" : "Cargo 870",
+  "weight" : 77.59985800390828,
+  "dimensions" : "8690x8690x8690",
+  "destination" : "Destination 870",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "FOOD", "CLOTHING", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 517.1538915459425,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 871,
+  "description" : "Cargo 871",
+  "weight" : 59.93594797233695,
+  "dimensions" : "8700x8700x8700",
+  "destination" : "Destination 871",
+  "status" : "DELIVERED",
+  "categories" : [ "ELECTRONICS", "FURNITURE", "FOOD", "BOOKS", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 475.5370243591388,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 872,
+  "description" : "Cargo 872",
+  "weight" : 8.267056947354245,
+  "dimensions" : "8710x8710x8710",
+  "destination" : "Destination 872",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "OTHER", "FURNITURE", "CLOTHING", "FOOD", "BOOKS", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 563.842884551491,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 873,
+  "description" : "Cargo 873",
+  "weight" : 77.52254222886015,
+  "dimensions" : "8720x8720x8720",
+  "destination" : "Destination 873",
+  "status" : "LOST",
+  "categories" : [ "FOOD", "FURNITURE", "ELECTRONICS", "BOOKS", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 689.2271780017613,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 874,
+  "description" : "Cargo 874",
+  "weight" : 99.0823134333895,
+  "dimensions" : "8730x8730x8730",
+  "destination" : "Destination 874",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "FURNITURE", "CLOTHING", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 944.6326559528746,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 875,
+  "description" : "Cargo 875",
+  "weight" : 52.38034299005416,
+  "dimensions" : "8740x8740x8740",
+  "destination" : "Destination 875",
+  "status" : "RETURNED",
+  "categories" : [ "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 614.3018852236133,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 876,
+  "description" : "Cargo 876",
+  "weight" : 16.906669165610253,
+  "dimensions" : "8750x8750x8750",
+  "destination" : "Destination 876",
+  "status" : "DELIVERED",
+  "categories" : [ "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 487.5389622738171,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 877,
+  "description" : "Cargo 877",
+  "weight" : 59.51029984424648,
+  "dimensions" : "8760x8760x8760",
+  "destination" : "Destination 877",
+  "status" : "DELIVERED",
+  "categories" : [ "ELECTRONICS", "FURNITURE", "BOOKS", "OTHER", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 41.5605987391463,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 878,
+  "description" : "Cargo 878",
+  "weight" : 1.2306460423132437,
+  "dimensions" : "8770x8770x8770",
+  "destination" : "Destination 878",
+  "status" : "OUT_FOR_DELIVERY",
+  "categories" : [ "BOOKS", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 581.0107461994759,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 879,
+  "description" : "Cargo 879",
+  "weight" : 81.19328517878726,
+  "dimensions" : "8780x8780x8780",
+  "destination" : "Destination 879",
+  "status" : "LOST",
+  "categories" : [ "CLOTHING", "ELECTRONICS", "OTHER", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 445.7237276847771,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 880,
+  "description" : "Cargo 880",
+  "weight" : 89.33035203369882,
+  "dimensions" : "8790x8790x8790",
+  "destination" : "Destination 880",
+  "status" : "DELIVERED",
+  "categories" : [ "ELECTRONICS", "FOOD", "BOOKS", "CLOTHING", "OTHER", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 332.66582133131453,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 881,
+  "description" : "Cargo 881",
+  "weight" : 30.374294775731524,
+  "dimensions" : "8800x8800x8800",
+  "destination" : "Destination 881",
+  "status" : "PENDING",
+  "categories" : [ "FURNITURE", "OTHER", "CLOTHING", "ELECTRONICS", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 404.83254226721675,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 882,
+  "description" : "Cargo 882",
+  "weight" : 4.641831036280076,
+  "dimensions" : "8810x8810x8810",
+  "destination" : "Destination 882",
+  "status" : "PENDING",
+  "categories" : [ "BOOKS", "CLOTHING", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 836.3734037234306,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 883,
+  "description" : "Cargo 883",
+  "weight" : 81.80387581389971,
+  "dimensions" : "8820x8820x8820",
+  "destination" : "Destination 883",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "OTHER", "CLOTHING", "FOOD", "FURNITURE", "ELECTRONICS", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 799.0185000962025,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 884,
+  "description" : "Cargo 884",
+  "weight" : 42.94929923410624,
+  "dimensions" : "8830x8830x8830",
+  "destination" : "Destination 884",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 885.8197337850193,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 885,
+  "description" : "Cargo 885",
+  "weight" : 61.42251069696278,
+  "dimensions" : "8840x8840x8840",
+  "destination" : "Destination 885",
+  "status" : "LOST",
+  "categories" : [ "FOOD", "CLOTHING", "FURNITURE", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 36.714693357386864,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 886,
+  "description" : "Cargo 886",
+  "weight" : 12.562011352472924,
+  "dimensions" : "8850x8850x8850",
+  "destination" : "Destination 886",
+  "status" : "LOST",
+  "categories" : [ "CLOTHING", "ELECTRONICS", "OTHER", "FOOD", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 145.5890394566568,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 887,
+  "description" : "Cargo 887",
+  "weight" : 56.022315088042085,
+  "dimensions" : "8860x8860x8860",
+  "destination" : "Destination 887",
+  "status" : "PENDING",
+  "categories" : [ "FOOD", "BOOKS", "ELECTRONICS", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 167.92988875755222,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 888,
+  "description" : "Cargo 888",
+  "weight" : 26.858964059928535,
+  "dimensions" : "8870x8870x8870",
+  "destination" : "Destination 888",
+  "status" : "DELIVERED",
+  "categories" : [ "CLOTHING", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 555.8154773127612,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 889,
+  "description" : "Cargo 889",
+  "weight" : 83.7361071348397,
+  "dimensions" : "8880x8880x8880",
+  "destination" : "Destination 889",
+  "status" : "DELIVERED",
+  "categories" : [ "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "DRONE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 2.235944674756407,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 890,
+  "description" : "Cargo 890",
+  "weight" : 72.93793538677478,
+  "dimensions" : "8890x8890x8890",
+  "destination" : "Destination 890",
+  "status" : "LOST",
+  "categories" : [ "OTHER", "CLOTHING", "FOOD", "ELECTRONICS", "FURNITURE", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 989.8068628993955,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 891,
+  "description" : "Cargo 891",
+  "weight" : 4.7474796785715085,
+  "dimensions" : "8900x8900x8900",
+  "destination" : "Destination 891",
+  "status" : "PENDING",
+  "categories" : [ "BOOKS", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 838.4138553876064,
+    "route" : "Route 2"
+  }
+}, {
+  "id" : 892,
+  "description" : "Cargo 892",
+  "weight" : 68.68290282957398,
+  "dimensions" : "8910x8910x8910",
+  "destination" : "Destination 892",
+  "status" : "RETURNED",
+  "categories" : [ "CLOTHING", "ELECTRONICS", "OTHER", "FOOD", "FURNITURE", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 854.9124946890671,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 893,
+  "description" : "Cargo 893",
+  "weight" : 83.57138510786585,
+  "dimensions" : "8920x8920x8920",
+  "destination" : "Destination 893",
+  "status" : "IN_TRANSIT",
+  "categories" : [ "ELECTRONICS", "FOOD", "CLOTHING", "BOOKS", "FURNITURE" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 779.0570718589585,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 894,
+  "description" : "Cargo 894",
+  "weight" : 10.799836978018707,
+  "dimensions" : "8930x8930x8930",
+  "destination" : "Destination 894",
+  "status" : "RETURNED",
+  "categories" : [ "CLOTHING", "BOOKS", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "SHIP",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 530.9442711138099,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 895,
+  "description" : "Cargo 895",
+  "weight" : 79.43594740970462,
+  "dimensions" : "8940x8940x8940",
+  "destination" : "Destination 895",
+  "status" : "PENDING",
+  "categories" : [ "ELECTRONICS", "BOOKS", "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRAIN",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 470.06976190542235,
+    "route" : "Route 3"
+  }
+}, {
+  "id" : 896,
+  "description" : "Cargo 896",
+  "weight" : 38.297778606566304,
+  "dimensions" : "8950x8950x8950",
+  "destination" : "Destination 896",
+  "status" : "LOST",
+  "categories" : [ "BOOKS", "FOOD", "CLOTHING", "OTHER" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "TRUCK",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 937.7517136983539,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 897,
+  "description" : "Cargo 897",
+  "weight" : 49.93862823204604,
+  "dimensions" : "8960x8960x8960",
+  "destination" : "Destination 897",
+  "status" : "PENDING",
+  "categories" : [ "CLOTHING", "ELECTRONICS", "OTHER", "FOOD", "BOOKS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "HELICOPTER",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 474.9984720492766,
+    "route" : "Route 5"
+  }
+}, {
+  "id" : 898,
+  "description" : "Cargo 898",
+  "weight" : 24.7754510381896,
+  "dimensions" : "8970x8970x8970",
+  "destination" : "Destination 898",
+  "status" : "RETURNED",
+  "categories" : [ "FURNITURE", "FOOD" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "PLANE",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 859.7583508660626,
+    "route" : "Route 1"
+  }
+}, {
+  "id" : 899,
+  "description" : "Cargo 899",
+  "weight" : 62.86434753073259,
+  "dimensions" : "8980x8980x8980",
+  "destination" : "Destination 899",
+  "status" : "DELIVERED",
+  "categories" : [ "CLOTHING" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 716.5084509979679,
+    "route" : "Route 4"
+  }
+}, {
+  "id" : 900,
+  "description" : "Cargo 900",
+  "weight" : 81.26382411793868,
+  "dimensions" : "8990x8990x8990",
+  "destination" : "Destination 900",
+  "status" : "PENDING",
+  "categories" : [ "FURNITURE", "BOOKS", "FOOD", "CLOTHING", "OTHER", "ELECTRONICS" ],
+  "vehicleInfo" : {
+    "id" : 1,
+    "type" : "CAR",
+    "vehicleNumber" : "ABC123",
+    "cargoCapacity" : 484.077238876321,
+    "route" : "Route 1"
+  }
+} ]
